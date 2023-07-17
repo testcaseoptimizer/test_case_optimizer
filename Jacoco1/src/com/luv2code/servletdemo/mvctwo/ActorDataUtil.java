@@ -7,7 +7,7 @@ public class ActorDataUtil {
 
 	public static List<Actor> getActor() {
 		
-		// create an empty list
+		// create an empty null listed arraylist
 		List<Actor> Actors = new ArrayList<>();
 		
 		// add sample data
