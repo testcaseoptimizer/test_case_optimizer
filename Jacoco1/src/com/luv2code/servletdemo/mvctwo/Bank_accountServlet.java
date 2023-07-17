@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class MvcDemoServletTwo
+ * Servlet implementation class hellothere
  */
 @WebServlet("/Bank_accountServlet")
 public class Bank_accountServlet extends HttpServlet {
