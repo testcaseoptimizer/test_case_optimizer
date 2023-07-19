@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class MvcDemoServletTwo
+ * Servlet implementation class Mvchelloall
  */
 @WebServlet("/TicketServlet")
 public class TicketServlet extends HttpServlet {
