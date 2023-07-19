@@ -7,7 +7,7 @@ public class StudentDataUtil {
 
 	public static List<Student> getStudents() {
 		
-		// create an empty helloQK
+		// create an empty presenting
 		List<Student> students = new ArrayList<>();
 		
 		// add sample data
